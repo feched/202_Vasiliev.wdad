@@ -1,5 +1,6 @@
-#include <stdio.h>
+#include <stdio.h> 
 main()
 {
 printf("I'm Alexander Vasiliev, and I’m not a monkey");
+getchar();
 }
